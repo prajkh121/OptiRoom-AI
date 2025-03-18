@@ -1,0 +1,7 @@
+streamlit
+torch
+diffusers
+transformers
+safetensors
+Pillow
+requests
